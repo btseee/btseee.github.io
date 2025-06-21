@@ -33,6 +33,7 @@ export default function Header() {
               title
               alt="Logo"
               src="/images/logo-light.png"
+              height={75}
             />
           </Link>
         </div>
