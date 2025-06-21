@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "Battseren Badral",
+    "heading": "Yos! I’m Tsee",
+    "typingText": ["I'm a Coder", 1500, "I'm a Developer", 1500],
+    "description": "Confine yourself to the present.",
+    "btnText": "Contact Me",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/btseku1125/"
+    },
+    { 
+      "icon": "fa-brands:github", 
+      "iconBgClass": "github", 
+      "href": "https://github.com/btseee" 
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/btsee/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "https://investor.mlholding.mn/wp-content/uploads/2024/06/2.ML_Holding_Har_suuritai-1.png",
+      "alt": "Monlogistics Holding LLC"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/B3_SendMN_Co_Logo_color_RGB.png",
+      "alt": "SendMN LLC"
+    },
+    {
+      "src": "https://lh6.googleusercontent.com/proxy/Mg08XYnMtxKLHcdQ85OpI30ikgiuUmEq2gC6kcDm-hhd0Dp8e7Aoa_HrmgNmliJWIYGtb9yt3JQDhVpNICNc9Vg1BFoX2cxUtmqeSAquOxE",
+      "alt": "Octasys GmbH"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.jpg",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>ANY</span> PROJECTS",
+    "description": "I'm a software engineer passionate about building efficient and accessible technology. In my 4 years of experience , I've launched a secure mobile fintech app , reduced system lag by 40% through backend optimization , and developed critical accessibility compliance platforms for public sector clients. I thrive on solving complex problems across the full stack and am eager to help build the next generation of meaningful products.",
+    "funfacts": [
+      {
+        "title": "Years of experience",
+        "number": 4
+      },
+      {
+        "title": "Projects Completed",
+        "number": 4
+      },
+      {
+        "title": "Contributions",
+        "number": 5
+      }
+    ],
+    "btnText": "Contact Me",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "https://opengraph.githubassets.com/5d7d64d841b71e0d3ccb3aa71d7ef933e88ec52907c4a8eb3ea253ac960c525a/espeak-ng/espeak-ng",
+        "title": "espeak-NG",
+        "subTitle": "Adding Mongolian language support to espeak-NG",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+          "type": "Website",
+          "langages": "C",
+          "platform": "Cross-platform",
+          "country": "Germany",
+          "url": "https://github.com/btseee/espeak-ng"
+        }
+      },
+      {
+        "thumbUrl": "https://opengraph.githubassets.com/d7de145f64e9c6df7b698129e2e5a20c15918c5a24e1faa5da7f88f88e5e9ca2/btseee/mongol-tts",
+        "title": "Mongolian TTS",
+        "subTitle": "Lightwight Mongolian Text-to-Speech",
+        "details": {
+          "title": "Lightweight Mongolian Text-To-Speech with Vits and CoquiTTS",
+          "description": "Lightweight Mongolian Text-To-Speech with Vits and CoquiTTS",
+          "type": "Website",
+          "langages": "Python, Pytorch",
+          "platform": "AI",
+          "country": "Mongolia",
+          "url": "https://huggingface.co/btsee/vits-mn"
+        }
+      },
+      {
+        "thumbUrl": "https://opengraph.githubassets.com/812548ea9e30e88ca4e45367a960f764f25fe381b2173304fed56d3e42288cf4/btseee/vscode-cspell-dict-extensions-mn",
+        "title": "Mongolia Spell Checker",
+        "subTitle": "VSCode Spell Checker Dictionary Extension for Mongolian",
+        "details": {
+          "title": "VSCode Spell Checker Dictionary Extension for Mongolian",
+          "description": "VSCode Spell Checker Dictionary Extension for Mongolian",
+          "type": "Website",
+          "langages": "TypeScript",
+          "platform": "Node.js",
+          "country": "Mongolia",
+          "url": "https://github.com/btseee/vscode-cspell-dict-extensions-mn"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Development <span>services</span> I am providing"
+    },
+    "allService": [
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Software Engineer",
+        "company": "octasys GmbH | ONSITE",
+        "duration": "JUL 2023 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Responsibilities",
+        "companyDescription": "Developed and maintained BayBiTsuite, a crucial Vue.js and .NET-based web and mobile system. This platform empowers the Bavarian government to efficiently select, test, and generate comprehensive EU accessibility reports for websites and mobile applications, ensuring compliance and promoting digital inclusion. Developing and maintaining Inklusitbase, an accessibility reporting system (Vue.js, .NET, Docker) designed to serve general governmental bodies nationwide. This initiative aims to standardize and enhance digital accessibility compliance across various public sectors. Built an internal template generator plugin for Redmine, specifically designed to automate and standardize documentation, resulting in a smoother and more efficient team workflow."
+      },
+      {
+        "designation": "Software Engineer",
+        "company": "SendMN LLC | ONSITE",
+        "duration": "SEP 2022 - JUL 2023",
+        "jobType": "Full time",
+        "companyTitle": "Responsibilities",
+        "companyDescription": "Developed SendMN v2, a money remittance app, using Flutter for the mobile frontend, .NET for the backend, and Firebase for cloud services. Successfully integrated with the core system and launched to production. Designed and developed a comprehensive loan module for the core system"
+      },
+      {
+        "designation": "Software Engineer",
+        "company": "Monlogistics Holding | ONSITE",
+        "duration": "JUL 2021 - SEP 2022",
+        "jobType": "Full time",
+        "companyTitle": "Responsibilities",
+        "companyDescription": "Developed an optimized aggregation script for the core system built with Node.js and MongoDB, reducing system lag by 40%. Developed a trucking management module for child company with Odoo 15 using Python. Maintained core system with AngularJS, NodeJS and MongoDB for 2 child companies"
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "",
+      "title": ""
+    },
+    "allTestimonial": [
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/about-banner.jpg",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "sample@domain.com" },
+      { "title": "write an e-mail", "tel": "+044 9696 9696 3636" }
+    ]
+  }
+}
