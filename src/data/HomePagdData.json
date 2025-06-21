@@ -2,7 +2,7 @@
   "hero": {
     "imgUrl": "/images/home-banner.png",
     "name": "Battseren Badral",
-    "heading": "Yos! I’m Tsee",
+    "heading": "Yo! I’m Tsee",
     "typingText": ["I'm a Coder", 1500, "I'm a Developer", 1500],
     "description": "Confine yourself to the present.",
     "btnText": "Contact Me",
