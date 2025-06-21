@@ -166,8 +166,7 @@
     },
     "contactImg": "/images/about-banner.jpg",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "sample@domain.com" },
-      { "title": "write an e-mail", "tel": "+044 9696 9696 3636" }
+      { "title": "Write an e-mail", "email": "bbattseren88@gmail.com" }
     ]
   }
 }
